@@ -1,0 +1,9 @@
+# C/C++ executable files
+*.exe
+*.out
+
+# VSCode
+.vscode/
+
+# Build files
+build/
